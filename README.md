@@ -16,6 +16,14 @@ Multiplication
 
 Division
 
+🧠 Scientific Functions
+
+sin( )
+
+cos( )
+
+tan( )
+
 🎨 Modern UI Design
 
 Clean button layout
